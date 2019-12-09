@@ -12,7 +12,7 @@ pip install geogridmap
 
 ## Usage
 
-Can be seen in ipython notebook.
+Can be seen in ipython notebook titled usage.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
